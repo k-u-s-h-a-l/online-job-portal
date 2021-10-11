@@ -46,10 +46,10 @@
                                 <th height="32" bgcolor="#006699" class="style3">
                                     <div align="left" class="style9 style5 style2"><strong>Company Name</strong></div>
                                 </th>
-                                <th bgcolor="#006699" class="style3">
+                                <th height="32" bgcolor="#006699" class="style3">
                                     <div align="left" class="style9 style5 style2"><strong>Contact Person</strong></div>
                                 </th>
-                                <th bgcolor="#006699" class="style3">
+                                <th height="32" bgcolor="#006699" class="style3">
                                     <div align="left" class="style9 style5 style2"><strong>Email</strong></div>
                                 </th>
                             </tr>
