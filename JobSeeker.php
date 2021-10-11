@@ -28,13 +28,13 @@
         var arrFormValidation = [
             [ //Name
                 ["minlen=1",
-                    "Please Enter Name "
+                    "Please Enter Your Name:"
                 ]
 
             ],
             [ //Address
                 ["minlen=1",
-                    "Please Enter Address "
+                    "Please Enter Your Address:"
                 ]
 
             ],
