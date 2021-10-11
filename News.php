@@ -66,7 +66,7 @@
 
               ?>
                 <tr>
-                  <td class="style3"><img src="design/ico_archive2.gif" alt="" width="9" height="11" /></td>
+                  <td class="style3"><img src="design/ico_archive2.gif" alt="archive" width="9" height="11" /></td>
                   <td class="style3">
                     <div align="left" class="style9 style5"><strong><?php echo $News; ?></strong></div>
                   </td>
