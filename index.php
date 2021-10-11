@@ -55,11 +55,11 @@ if (isset($_SESSION['$UserName_emp'])) {
                     <div class="article">
                         <h2><span><a href="#">Welcome To Job Portal System</a></span></h2>
                         <h3>
-                            <marquee>Unified Job Application and recruitement portal</marquee>
+                            <marquee>Unified Job Application and Recruitment Portal</marquee>
                         </h3>
 
                         <p>
-                            <span class="style2">U</span>nemployment is one of the serious social issues faced by both developing and developed countries. One of the reasons for this problem is the unfair distribution or lack of information on job opportunities due to which many people are unable to find out about new job vacancies.
+                            <span class="style2">U</span>Unemployment is one of the serious social issues faced by both developing and developed countries. One of the reasons for this problem is the unfair distribution or lack of information on job opportunities due to which many people are unable to find out about new job vacancies.
                         </p>
                         <p>
                             The objective of this project is to create a completely functional interface for candidates that are looking for job opportunities in different sectors and make the entire process of applying for jobs easier not only for the candidates but also for the employers who can setup and recruit candidates from the same portal.
